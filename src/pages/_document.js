@@ -19,7 +19,11 @@ class MyDocument extends Document {
         </Head>
         <body>
           <Main />
-          <NextScript />          
+          <NextScript />  
+          <script src="https://code.jquery.com/jquery-2.1.1.min.js"/>       
+          <script src="/assets/js/bootstrap.min.js"/>         
+          <script src="/assets/js/jquery.meanmenu.js"/>          
+          <script src="/assets/js/main.js"/>                   
         </body>
       </Html>
     )
